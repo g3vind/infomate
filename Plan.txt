@@ -1,0 +1,29 @@
+1. Invoked by a button, keyboard shortcut or voice command
+2. Should be available on all browser pages
+3. List of people : should be able to give following details about the list of people
+    3.1 a brief
+    3.2 images
+    3.3 latest news
+    3.4 linkedin, twitter, insta handles, able to follow without leaving pages
+    3.5 wikipedia
+    3.6 google search
+
+4. List of places : following details
+    4.1 brief
+    4.2 map
+    4.3 images
+    4.4 latest news
+    4.5 wikipedia
+    4.6 google search
+
+5. List of companies
+    5.1 brief
+    5.2 key business leaders
+    5.3 investors
+    5.4 websites
+    5.5 images
+    5.6 latest news
+    5.7 wikipedia
+    5.8 google search
+
+6. Access ChatGPT, Bard, Google, Maps, Wikipedia from the extension page itself
