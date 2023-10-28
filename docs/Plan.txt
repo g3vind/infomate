@@ -27,3 +27,4 @@
     5.8 google search
 
 6. Access ChatGPT, Bard, Google, Maps, Wikipedia from the extension page itself
+7. Create and download images from ai like dal e, midjourney etc while stayig in the page

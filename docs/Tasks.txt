@@ -1,0 +1,5 @@
+1. show a button on all websites (chrome extension)
+2. start listening on button click and stop on again click
+3. display transcript on console (speech to text)
+4. display transcript on popup
+5. btn click through a keyboard shortcut
