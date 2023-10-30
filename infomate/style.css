@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  min-width: 120px;
+  min-height: 120px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-logo {
+  height: 16px;
+  width: 16px;
+}
+.credit {
+  font-size: 5px;
+  color: gray;
+  list-style: none;
+  text-align: center;
+}

@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+    "name": "InfoMate",
+    "version": "1.0.0",
+    "description": "Your Ultimate Browsing Companion",
+    "icons": {
+        "16":"images/icon16.png",
+        "32":"images/icon32.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    },
+ 
+   
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+        "16":"images/icon16.png",
+        "32":"images/icon32.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+        }
+    },
+    
+    "content_scripts": [
+        {
+           "js":["scripts/popup.js","scripts/content.js"],
+           "css":["scripts/content.css"],
+           "matches":["*://*/*"] 
+        }
+    ]
+}

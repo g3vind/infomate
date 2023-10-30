@@ -1,5 +1,7 @@
-1. show a button on all websites (chrome extension)
-2. start listening on button click and stop on again click
-3. display transcript on console (speech to text)
-4. display transcript on popup
-5. btn click through a keyboard shortcut
+# Video 2
+In this video we achieved the following five tasks
+*Basic setup and hello World
+*Show a button on all websites
+*Visual cues of clickability on the button
+*Start fake listening on btn click and stop fake listening on next click. 
+*Visual cues of listening on the button
